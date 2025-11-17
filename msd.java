@@ -1,4 +1,6 @@
-public class{
-public static void main(string[] args){
-System.out.println("hello");
-}}
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
+}
+
